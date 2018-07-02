@@ -1,0 +1,17 @@
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\bin\Debug\projektwoche2018_v2.exe.config
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\bin\Debug\projektwoche2018_v2.exe
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\bin\Debug\projektwoche2018_v2.pdb
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\bin\Debug\MySql.Data.dll
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\bin\Debug\MySql.Data.xml
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.csprojResolveAssemblyReference.cache
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.Form1.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.FormNeu.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.FormOeffnen.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.Properties.Resources.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.UserControls.UserControlEinstellungen.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.UserControls.UserControlSchueler.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.UserControls.UserControlWahl.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.UserControls.UserControlWorkshop.resources
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.csproj.GenerateResource.Cache
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.exe
+c:\users\luca\documents\visual studio 2015\Projects\projektwoche2018_v2\projektwoche2018_v2\obj\Debug\projektwoche2018_v2.pdb
